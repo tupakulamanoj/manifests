@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: pavan0605/cdimages:v2
+        image: manoj758/cdimages:v14
         ports:
         - containerPort: 8080
